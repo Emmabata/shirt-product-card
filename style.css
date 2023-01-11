@@ -14,13 +14,16 @@ body {
     margin: auto;
     padding-left: 25px;
     padding-right: 20px;
+    padding-top: 2px;
+    padding-bottom: 50px;
 }
-.small-container h1 {
+h1 {
     text-transform: uppercase;
     text-align: center;
-    margin: 3px 10px;
-    font-size: 2rem;
+    font-size: 25px;
     color: bisque;
+    padding-bottom: 5px;
+    padding-top: 25px;
 }
 
 h1:hover {
